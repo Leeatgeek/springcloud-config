@@ -1,2 +1,2 @@
-such
-    port 3365
+such:
+    port: 3365
